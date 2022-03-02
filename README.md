@@ -1,6 +1,0 @@
-- 👋 Hi, I’m @NicolaLassandro
-- 👀 I’m interested in teamwork.
-- 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on university project.
-- 📫 How to reach me ...
--       e-mail: n.lassandro4@studenti.uniba.it
