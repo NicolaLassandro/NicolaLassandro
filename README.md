@@ -1,0 +1,5 @@
+- 👋 Ciao, sono @NicolaLassandro.
+- 👀 Adoro l'idea di creare qualcosa che possa essere utile al prossimo.
+- 🌱 In questo periodo mi sto dedicando a imparare Java e a perfezionare C++.
+- 💞️ Attualmente collaboro con i miei compagni universitari.
+- 📫 Potete contattarmi a questo indirizzo e-mail: n.lassandro4@studenti.uniba.it
